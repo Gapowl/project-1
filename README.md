@@ -1,2 +1,2 @@
 # project-1
-Projeto um de estudo
+Projeto-1 de estudo
